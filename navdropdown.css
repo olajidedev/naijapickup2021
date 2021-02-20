@@ -1,0 +1,55 @@
+.nav {
+        background-color: #4c4cac;
+        width:100%;
+        padding: 10px;
+        border-radius: 3px;
+        color: #fff;
+    }
+    .nav2 {
+        background-color: #fff;
+        width:100%;
+        padding: 10px;
+        border-radius: 3px;
+        color: #000;
+    }
+    .row1 {
+        background-color: #fff;
+        width:100%;
+        padding: 10px;
+        border-radius: 3px;
+        color: #000;
+    }
+    .publish {
+        display: inline-table;
+        padding: 5px;
+        width: auto;
+    }
+    .publish select {
+        width: auto !important;
+        font-weight: normal;
+        font-size: small;
+        padding: 5px;
+        margin: 5px;
+    }
+    .publish input[type=submit]{
+        background-color: #4c4cac;
+        color: #ffffff;
+        font-size: small;
+        padding: 5px 10px;
+        margin: 5px;
+    }
+.thelist-div {background:#fff;padding:20px;border-top:1px solid #333;
+}
+
+.thelist-div a{
+border:1px solid #ccc;margin-left:15px;margin-bottom:10px;text-transform:uppercase;
+color:#000;font-weight:bold;font-size:15px;padding:5px!important;display:inline-block;
+}
+
+.thevlist-div {background:#fff;padding:10px;border-top:1px solid #333;
+}
+
+.thevlist-div a{
+border:1px solid #ccc;margin-left:15px;margin-bottom:10px;text-transform:uppercase;
+color:#000;font-weight:bold;font-size:15px;padding:5px!important;display:inline-block;
+}
